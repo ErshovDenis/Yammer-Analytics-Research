@@ -1,5 +1,5 @@
 # Yammer-Analytics-Research
-This project is devoted to investigation of user engagement drop in Yammer. 
+This project is devoted to investigation of user engagement drop in Yammer, as well as to understanding of Yammer functionality and A/B-hypothesis testing.
 
 This project represents the conclusion of SQL Tutorial course available at MODE portal. This project encourages to demonstrate all skills acquired within the intensive SQL Tutorial. Note that MODE website (https://mode.com/sql-tutorial/sql-business-analytics-training) had an in-built portal to work with SQL commands and visualisations, therefore, the raw datasets and project working documents were not available to upload here, instead a pdf-report was prepared.
 
